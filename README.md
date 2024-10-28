@@ -3,6 +3,7 @@
 <h2 align="left">:moneybag: Language :moneybag:  </h2>
 <div align="left">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 
