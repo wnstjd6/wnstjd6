@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=JAVA&logoColor=61DAFB" />
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
 
