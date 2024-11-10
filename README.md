@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=green8&height=150&section=header" />
+
 
 <h1 align="left"> Language  </h1>
 <div align="left">
@@ -21,6 +21,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=green8&height=150&section=footer" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstjd6&show_icons=true&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=green8&height=150&section=header" />
 
 
 
