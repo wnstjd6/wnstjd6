@@ -20,7 +20,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=green8&height=150&section=footer" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnstjd6&show_icons=true&theme=radical)
+
 
 
 
