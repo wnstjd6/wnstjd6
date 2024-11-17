@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Intellij-F3F3F3.svg?style=for-the-badge&logo=Intellij&logoColor=black" />&nbsp
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=green8&height=150&section=footer" />
